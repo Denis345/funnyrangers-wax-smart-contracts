@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/wax/FunnyRangers/funnyrangers/src/../include/atomicassets.hpp
+eosio/eosio.hpp
+-
+
+/wax/FunnyRangers/funnyrangers/src/../include/funnyrangers.hpp
+eosio/eosio.hpp
+-
+eosio/asset.hpp
+-
+atomicassets.hpp
+-
+eosio/transaction.hpp
+-
+eosio/crypto.hpp
+-
+wax-orng-interface.hpp
+-
+
+/wax/FunnyRangers/funnyrangers/src/../include/wax-orng-interface.hpp
+eosio/eosio.hpp
+-
+
+/wax/FunnyRangers/funnyrangers/src/funnyrangers.cpp
+funnyrangers.hpp
+-
+eosio/system.hpp
+-
+

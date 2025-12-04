@@ -1,0 +1,14 @@
+# Target labels
+ funnyrangers_project
+# Source files and their labels
+/wax/FunnyRangers/funnyrangers/build/CMakeFiles/funnyrangers_project
+/wax/FunnyRangers/funnyrangers/build/CMakeFiles/funnyrangers_project.rule
+/wax/FunnyRangers/funnyrangers/build/CMakeFiles/funnyrangers_project-complete.rule
+/wax/FunnyRangers/funnyrangers/build/funnyrangers_project-prefix/src/funnyrangers_project-stamp/funnyrangers_project-install.rule
+/wax/FunnyRangers/funnyrangers/build/funnyrangers_project-prefix/src/funnyrangers_project-stamp/funnyrangers_project-mkdir.rule
+/wax/FunnyRangers/funnyrangers/build/funnyrangers_project-prefix/src/funnyrangers_project-stamp/funnyrangers_project-download.rule
+/wax/FunnyRangers/funnyrangers/build/funnyrangers_project-prefix/src/funnyrangers_project-stamp/funnyrangers_project-update.rule
+/wax/FunnyRangers/funnyrangers/build/funnyrangers_project-prefix/src/funnyrangers_project-stamp/funnyrangers_project-patch.rule
+/wax/FunnyRangers/funnyrangers/build/funnyrangers_project-prefix/src/funnyrangers_project-stamp/funnyrangers_project-configure.rule
+/wax/FunnyRangers/funnyrangers/build/funnyrangers_project-prefix/src/funnyrangers_project-stamp/funnyrangers_project-build.rule
+/wax/FunnyRangers/funnyrangers/build/funnyrangers_project-prefix/src/funnyrangers_project-stamp/funnyrangers_project-test.rule
