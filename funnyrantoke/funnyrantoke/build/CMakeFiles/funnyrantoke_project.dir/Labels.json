@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/CMakeFiles/funnyrantoke_project"
+		},
+		{
+			"file" : "/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/CMakeFiles/funnyrantoke_project.rule"
+		},
+		{
+			"file" : "/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/CMakeFiles/funnyrantoke_project-complete.rule"
+		},
+		{
+			"file" : "/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-install.rule"
+		},
+		{
+			"file" : "/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-mkdir.rule"
+		},
+		{
+			"file" : "/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-download.rule"
+		},
+		{
+			"file" : "/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-update.rule"
+		},
+		{
+			"file" : "/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-patch.rule"
+		},
+		{
+			"file" : "/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-configure.rule"
+		},
+		{
+			"file" : "/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-build.rule"
+		},
+		{
+			"file" : "/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"funnyrantoke_project"
+		],
+		"name" : "funnyrantoke_project"
+	}
+}

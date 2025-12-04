@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/src/../include/funnyrantoke.hpp
+eosio/asset.hpp
+-
+eosio/eosio.hpp
+-
+string
+-
+
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/src/funnyrantoke.cpp
+funnyrantoke.hpp
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/src/funnyrantoke.hpp
+

@@ -1,0 +1,3 @@
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke/CMakeFiles/rebuild_cache.dir
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke/CMakeFiles/funnyrantoke.dir
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke/CMakeFiles/edit_cache.dir

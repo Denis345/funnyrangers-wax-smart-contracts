@@ -1,0 +1,14 @@
+# Target labels
+ funnyrantoke_project
+# Source files and their labels
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/CMakeFiles/funnyrantoke_project
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/CMakeFiles/funnyrantoke_project.rule
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/CMakeFiles/funnyrantoke_project-complete.rule
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-install.rule
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-mkdir.rule
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-download.rule
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-update.rule
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-patch.rule
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-configure.rule
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-build.rule
+/wax/FunnyRangers/funnyrantoke/funnyrantoke/build/funnyrantoke_project-prefix/src/funnyrantoke_project-stamp/funnyrantoke_project-test.rule

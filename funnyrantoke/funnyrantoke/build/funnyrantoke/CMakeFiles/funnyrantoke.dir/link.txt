@@ -1,0 +1,1 @@
+/usr/local/eosio.cdt/bin/eosio-ld  CMakeFiles/funnyrantoke.dir/funnyrantoke.obj -o funnyrantoke.wasm 
